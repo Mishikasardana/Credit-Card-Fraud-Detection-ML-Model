@@ -12,10 +12,9 @@ The project uses Python and libraries like **scikit-learn**, **pandas**, and **i
 2. [Dataset](#dataset)
 3. [Methodology](#methodology)
 4. [Requirements](#requirements)
-5. [Usage](#usage)
-6. [Evaluation](#evaluation)
-7. [Results](#results)
-8. [Contributing](#contributing)
+5. [Evaluation](#evaluation)
+6. [Results](#results)
+7. [Contributing](#contributing)
 
 ---
 
@@ -70,30 +69,6 @@ pip install numpy pandas scikit-learn imbalanced-learn matplotlib seaborn
 
 ---
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd credit-card-fraud-detection
-   ```
-3. Place the dataset in the `data/` directory.
-4. Run the preprocessing and training script:
-   ```bash
-   python train_model.py
-   ```
-5. Evaluate the model:
-   ```bash
-   python evaluate_model.py
-   ```
-6. Predict on new transactions:
-   ```bash
-   python predict.py --input new_transactions.csv
-   ```
-
----
 
 ## Evaluation
 The model will be evaluated using the following metrics:
@@ -101,8 +76,6 @@ The model will be evaluated using the following metrics:
 - **Recall:** Measures the proportion of actual fraud transactions correctly identified.
 - **F1-Score:** Harmonic mean of precision and recall, ensuring a balance between false positives and false negatives.
 - **AUC-ROC Curve:** Measures the model's ability to distinguish between classes.
-
-Results will be saved in the `results/` directory.
 
 ---
 
