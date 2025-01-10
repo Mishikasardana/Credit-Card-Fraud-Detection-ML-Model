@@ -107,12 +107,12 @@ Results will be saved in the `results/` directory.
 ---
 
 ## Results
-The model performance for the selected dataset is as follows:
-Logistic Regression Classifier:
-Accuracy: 0.9506726457399103
-Precision: 0.9702970297029703
-Recall: 0.6533333333333333
-F1 Score: 0.7808764940239044
+- The model performance for the selected dataset is as follows:
+1. **Logistic Regression Classifier:**
+- **Accuracy:** 0.9506726457399103
+- **Precision:** 0.9702970297029703
+- **Recall:** 0.6533333333333333
+- **F1 Score:** 0.7808764940239044
 
 Decision Tree Classifier:
 Accuracy: 0.9204510447901907
