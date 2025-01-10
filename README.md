@@ -114,17 +114,17 @@ Results will be saved in the `results/` directory.
 - **Recall:** 0.6533333333333333
 - **F1 Score:** 0.7808764940239044
 
-Decision Tree Classifier:
-Accuracy: 0.9204510447901907
-Precision: 0.8125
-Recall: 0.6333333333333333
-F1 Score: 0.7114093959731543
+2. **Decision Tree Classifier:**
+- **Accuracy:** 0.9204510447901907
+- **Precision:** 0.8125
+- **Recall:** 0.6333333333333333
+- **F1 Score:** 0.7114093959731543
 
-Random Forest Classifier:
-Accuracy: 0.9757847533632287
-Precision: 0.984251968503937
-Recall: 0.8333333333333334
-F1 Score: 0.9025270758122743
+3. **Random Forest Classifier:**
+- **Accuracy:** 0.9757847533632287
+- **Precision:** 0.984251968503937
+- **Recall:** 0.8333333333333334
+- **F1 Score:** 0.9025270758122743
 ---
 
 ## Contributing
