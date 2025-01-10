@@ -1,8 +1,3 @@
-# Credit-Card-Fraud-Detection-ML-Model
- Based on the problem statement provided in the image, here's a customized version of the `README.md` file for the **Credit Card Fraud Detection** project:
-
----
-
 # Credit Card Fraud Detection
 
 ## Overview
